@@ -1,25 +1,5 @@
 # ASCII-Text-Signature
 This program generates symbols of ASCII New Roman Font.
 
-Input:
-
-Enter name and surname: E Korotaev
-Enter person's status: Programmer
-
-Output:
-
-88888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888
-88  oooooooooooo           oooo    oooo                                  .                                     88
-88  `888'     `8           `888   .8P'                                 .o8                                     88
-88   888                    888  d8'     .ooooo.  oooo d8b  .ooooo.  .o888oo  .oooo.    .ooooo.  oooo    ooo   88
-88   888oooo8               88888[      d88' `88b `888""8P d88' `88b   888   `P  )88b  d88' `88b  `88.  .8'    88
-88   888    "               888`88b.    888   888  888     888   888   888    .oP"888  888ooo888   `88..8'     88
-88   888       o            888  `88b.  888   888  888     888   888   888 . d8(  888  888    .o    `888'      88
-88  o888ooooood8           o888o  o888o `Y8bod8P' d888b    `Y8bod8P'   "888" `Y888""8o `Y8bod8P'     `8'       88
-88                                                                                                             88
-88                                                                                                             88
-88                                                                                                             88
-88                             ___  ____ ____ ____ ____ ____ _  _ _  _ ____ ____                               88
-88                             |__] |__/ |  | | __ |__/ |__| |\/| |\/| |___ |__/                               88
-88                             |    |  \ |__| |__] |  \ |  | |  | |  | |___ |  \                               88
-88888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888
+Example:
+![alt text](screenshots/Example.png)
